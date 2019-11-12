@@ -1,0 +1,18 @@
+# Maven #
+target/
+out/
+
+# eclipse #
+.classpath
+.project
+.settings/
+
+# idea #
+.idea/
+*.iml
+
+# Mac #
+.DS_Store
+
+# others
+.ssh/
